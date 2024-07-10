@@ -396,7 +396,7 @@ header {
     height: 431px;
     background-repeat: no-repeat;
     margin-top: 30px;
-    margin-left: 490px;
+    margin-left: 630px;
     width: 850px;
     display: flex;
     align-items: center;
@@ -440,7 +440,7 @@ header {
 
 .selecao-1 {
     display: grid;
-    grid-template-columns: 200px 290px 290px 300px 260px auto;
+    grid-template-columns: 350px 350px 290px 300px 260px auto;
     grid-template-rows: 270px;
     margin-top: 50px;
 }
@@ -593,7 +593,7 @@ header {
 }
 
 #barra-verde {
-    margin-left: 720px;
+    margin-left: 920px;
     width: 80px;
     height: 4px;
     background-color: #7fad39;
@@ -618,7 +618,7 @@ header {
 
 .selecao-2 {
     display: grid;
-    grid-template-columns: 200px 290px 290px 300px 260px auto;
+    grid-template-columns: 350px 290px 290px 300px 260px auto;
     grid-template-rows: 270px;
     margin-top: 50px;
 }
@@ -683,7 +683,7 @@ header {
 
 .selecao-3 {
     display: grid;
-    grid-template-columns: 200px 290px 290px 300px 260px auto;
+    grid-template-columns: 350px 290px 290px 300px 260px auto;
     grid-template-rows: 270px;
     margin-top: 120px;
 }
@@ -710,7 +710,7 @@ header {
 
 .banner-2{
     display: grid;
-    grid-template-columns: 200px 290px 290px 300px 260px auto;
+    grid-template-columns: 350px 290px 290px 300px 260px auto;
     grid-template-rows: 270px;
     margin-top: 120px;
 }
@@ -731,7 +731,7 @@ header {
 
 .lastest{
     display: grid;
-    grid-template-columns: 200px 2fr 2fr 2fr 150px;
+    grid-template-columns: 350px 2fr 2fr 2fr 150px;
     grid-template-rows: 500px;
     margin-top: 100px;
 }

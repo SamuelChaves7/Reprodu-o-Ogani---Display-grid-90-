@@ -807,12 +807,12 @@ header {
     vertical-align: middle;
 }
 
+
 footer {
     background: #F3F6FA;
     display: grid;
-    grid-template-columns: 250px 300px 200px 200px 350px auto;
+    grid-template-columns: 400px 300px 200px 200px 350px auto;
     grid-template-rows: 500px;
-    margin-top: 100px;
 }
 
 #logo-footer {
@@ -820,14 +820,14 @@ footer {
     margin-top: 110px;
 }
 
-#logo-footer p {
+#logo-footer p{
     font-size: 16px;
     color: #1c1c1c;
     line-height: 36px;
     list-style: none;
 }
 
-#userful {
+#userful{
     grid-column: 3;
     margin-top: 100px;
 }
@@ -837,25 +837,25 @@ footer {
     font-weight: 800;
 }
 
-#userful a {
+#userful a{
     color: #1c1c1c;
     font-size: 14px;
     line-height: 32px;
     text-decoration: none;
 }
 
-#userful-2 {
+#userful-2{
     margin-top: 130px;
 }
 
-#userful-2 a {
+#userful-2 a{
     color: #1c1c1c;
     font-size: 14px;
     line-height: 32px;
     text-decoration: none;
 }
 
-#finalzin {
+#finalzin{
     margin-top: 100px;
 }
 
@@ -864,16 +864,16 @@ footer {
     font-weight: 800;
 }
 
-#finalzin p {
+#finalzin p{
     font-size: 14px;
 }
 
-#finalzin form {
+#finalzin form{
     display: flex;
     margin-top: 20px;
 }
 
-#input-final {
+#input-final{
     width: 100%;
     font-size: 16px;
     color: #1c1c1c;
@@ -881,7 +881,7 @@ footer {
     border: 1px solid #ededed;
 }
 
-#pra-fechar {
+#pra-fechar{
     height: 48px;
     border: none;
     background: #7fad39;
@@ -891,12 +891,12 @@ footer {
     padding: 13px 30px 12px;
 }
 
-.redes-footer {
+.redes-footer{
     grid-column: 5;
     margin-top: -200px;
 }
 
-.redes-footer a {
+.redes-footer a{
     display: inline-block;
     height: 41px;
     width: 41px;
@@ -911,12 +911,12 @@ footer {
     margin-right: 10px;
 }
 
-.redes-footer svg {
+.redes-footer svg{
     width: 10px;
     vertical-align: middle;
 }
 
-#insta {
+#insta{
     width: 14px;
 }
 
@@ -924,11 +924,11 @@ footer {
     width: 14px;
 }
 
-#pinter {
+#pinter{
     width: 14px;
 }
 
-#linha {
+#linha{
     grid-column-start: 2;
     grid-column-end: 6;
     background: #252525;
@@ -938,32 +938,32 @@ footer {
     opacity: 0.1;
 }
 
-.Copyright {
+.Copyright{
     grid-column-start: 2;
     grid-column-end: 5;
     margin-top: -70px;
 }
 
-.Copyright {
+.Copyright{
     font-size: 16px;
     color: #6f6f6f;
     font-weight: 400;
     line-height: 26px;
 }
 
-.Copyright svg {
+.Copyright svg{
     width: 14px;
 }
 
-.card {
+.card{
     margin-top: -70px;
 }
 
-#colorib {
+#colorib{
     text-decoration: none;
     color: #007bff;
 }
 
-#colorib:hover {
+#colorib:hover{
     color: white;
 }
