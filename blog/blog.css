@@ -416,7 +416,7 @@ header {
 
 .conteudo {
     display: grid;
-    grid-template-columns: 400px 400px 400px 400px auto;
+    grid-template-columns: 200px 400px 400px 400px auto;
     grid-template-rows: 100px;
     margin-top: 150px;
 }
@@ -640,7 +640,7 @@ header {
 footer {
     background: #F3F6FA;
     display: grid;
-    grid-template-columns: 400px 300px 200px 200px 350px auto;
+    grid-template-columns: 200px 300px 200px 200px 350px auto;
     grid-template-rows: 500px;
     margin-top: 1550px;
 }
